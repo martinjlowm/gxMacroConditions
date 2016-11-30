@@ -1,0 +1,16 @@
+## Interface: 11200
+## Title: |cffffaa00gx|r|cff999999MacroConditions|r
+## Notes: Macro conditions for Vanilla 1.12
+## Author: martinjlowm
+## Version:
+
+## X-Email: martin@martinjlowm.dk
+## X-Website: http://martinjlowm.dk
+
+## SavedVariables: gxMacroConditionsDB
+
+## Dependencies: gxLuaPlus
+
+Dongle.lua
+
+gxMacroConditions.lua
